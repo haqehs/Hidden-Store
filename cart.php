@@ -5,6 +5,7 @@ include("./functions/functions.php");
 <!DOCTYPE html>
 <html>
 <head>
+  <!-- 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 -->
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>Hidden Store - Cart Details</title>
